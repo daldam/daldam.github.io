@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: daldam # the main title
 
-tagline: Hello # it will display as the sub-title
+tagline: Hello hello # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
